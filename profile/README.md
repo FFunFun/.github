@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- .github로 organization 에서 대표 리드미를 작성할 수 있음
+- 바로 지금 이 내용인데, .github/profile/README.md 수정하면 됨
+
 <!--
 
 **Here are some ideas to get you started:**
